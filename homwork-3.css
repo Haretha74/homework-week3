@@ -308,12 +308,12 @@ font-family: 'Times New Roman', Times, serif
 .news-box{
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 550px;
+    width: 400px;
     background: #f1d2b2
 }
 .news-img{
-    width: 450px;
-    margin: 50px 50px 15px 50px
+    width: 350px;
+    margin: 25px 25px 25px 25px
     
 }
 .headlines{
@@ -369,9 +369,7 @@ font-family: 'Times New Roman', Times, serif
     text-transform: uppercase;
   }
   
-  .info h2 span{
-      color:#fff;
-    }
+  
   
   .contact{
     background:#f9feff;
