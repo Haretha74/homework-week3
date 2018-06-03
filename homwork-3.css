@@ -334,14 +334,14 @@ font-family: 'Times New Roman', Times, serif
     color:#485e74;
     line-height:1.6;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding:1em;
+   
   }
   
   .container{
     max-width:1170px;
     margin-left:auto;
     margin-right:auto;
-   
+    padding:1em;
   }
   
   ul{
